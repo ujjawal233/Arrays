@@ -40,3 +40,13 @@ implemented in **C++**, with a primary focus on **Arrays** and basic STL usage.
 ---
 
 ## 📂 Repository Structure
+'''DSA-Arrays/
+├── arrays/
+│ ├── array_traversal.cpp
+│ ├── array_insertion.cpp
+│ ├── array_deletion.cpp
+│ ├── array_search.cpp
+│ └── array_sorting.cpp
+│
+├── README.md
+└── .gitignore '''
