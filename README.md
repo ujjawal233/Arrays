@@ -3,6 +3,7 @@
 This repository contains **Data Structures and Algorithms (DSA)** programs
 implemented in **C++**, with a primary focus on **Arrays** and basic STL usage.
 
+
 ---
 
 ## 📌 Topics Covered
@@ -36,7 +37,7 @@ implemented in **C++**, with a primary focus on **Arrays** and basic STL usage.
 - Strong DSA foundation
 - Interview preparation
 - Clean and beginner-friendly code
-
+- Start with easy problem solving.
 ---
 
 ## 📂 Repository Structure
